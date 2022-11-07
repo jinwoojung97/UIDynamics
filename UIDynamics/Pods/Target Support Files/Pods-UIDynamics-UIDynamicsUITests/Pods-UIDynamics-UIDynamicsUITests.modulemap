@@ -1,0 +1,6 @@
+framework module Pods_UIDynamics_UIDynamicsUITests {
+  umbrella header "Pods-UIDynamics-UIDynamicsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
