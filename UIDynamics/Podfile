@@ -6,6 +6,9 @@ target 'UIDynamics' do
   use_frameworks!
   pod 'SnapKit', '~> 5.6.0'
   pod 'Then', '3.0.0'
+  pod 'RxSwift', '~> 5'
+  pod 'RxCocoa', '~> 5'
+  pod "RxGesture" , '~> 3.0'
   # Pods for UIDynamics
 
   target 'UIDynamicsTests' do
